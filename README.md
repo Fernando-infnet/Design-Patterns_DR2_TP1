@@ -1,3 +1,11 @@
+<img width="468" height="397" alt="image" src="https://github.com/user-attachments/assets/ba9f88b1-b35f-4aa3-8d5a-4139274310a7" />
+
+Diagrama antigo
+
+---
+
+<img width="1613" height="1027" alt="Screenshot_20260514_092813" src="https://github.com/user-attachments/assets/64df9477-ed74-42a9-a6c7-ce672ba7f146" />
+
 1. Singleton – Classe Library
 
 A classe Library agora implementa o padrão Singleton (construtor privado + método estático getInstance()). Todas as operações de gerenciamento de itens, usuários e empréstimos passam por essa única instância. 
